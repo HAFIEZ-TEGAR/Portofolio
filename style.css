@@ -109,7 +109,7 @@ section::before {
 }
 
 #work-1:hover::after{
-    content: 'Web Project';
+    content: 'IT Support | IT Helpdesk';
 }
 
 #work-2 {
@@ -117,7 +117,7 @@ section::before {
 }
 
 #work-2:hover::after{
-    content: 'Software Project';
+    content: 'Lock Out - Tag Out (LOTO)';
 }
 
 #work-3 {
@@ -125,7 +125,7 @@ section::before {
 }
 
 #work-3:hover::after{
-    content: 'Application Project';
+    content: 'Data Center Project';
 }
 
 .contact {
